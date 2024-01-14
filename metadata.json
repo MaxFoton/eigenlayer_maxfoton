@@ -1,7 +1,7 @@
 {
- "name": "<OPERATOR_NAME>",
- "website": "<YOUR_WEBSITE>",
- "description": "<DESCRIPTION>",
- "logo": "https://www.example.com/logo.png",
- "twitter": "<YOUR_TWITTER>"
+ "name": "MaxFoton nodes",
+ "website": "https://maxfoton.tech/",
+ "description": "You are welcome",
+ "logo": "https://maxfoton.tech/images/logo.jpg",
+ "twitter": "https://twitter.com/MaxFoton"
 }
